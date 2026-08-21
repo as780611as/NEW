@@ -97,7 +97,7 @@
     {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
       "name": "台視(YT)"
-    }
+    },
     { "url": "http://107.150.60.122/live/cctv1hd.m3u8", "name": "CCTV1" },
     { "url": "http://107.150.60.122/live/cctv2hd.m3u8", "name": "CCTV2" },
     { "url": "http://107.150.60.122/live/cctv3hd.m3u8", "name": "CCTV3" },
@@ -116,6 +116,6 @@
     { "url": "http://107.150.60.122/live/cctv15hd.m3u8", "name": "CCTV15" },
     { "url": "http://107.150.60.122/live/cctv16hd.m3u8", "name": "CCTV16" },
     { "url": "http://107.150.60.122/live/cctv17hd.m3u8", "name": "CCTV17" },
-    { "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub", "name": "CCTV4k" },
+    { "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub", "name": "CCTV4k" }
   ]
 }
